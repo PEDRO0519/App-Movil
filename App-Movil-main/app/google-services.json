@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228800235987",
+    "project_id": "snakesmed",
+    "storage_bucket": "snakesmed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228800235987:android:ed653ac6bac57875e88726",
+        "android_client_info": {
+          "package_name": "co.com.sneakermed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgPuKFowL2-pr76gLj1230JL6kZslwjeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
